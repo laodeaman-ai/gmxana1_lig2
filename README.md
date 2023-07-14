@@ -8,5 +8,5 @@ Cara penggunaan:
 5. Tempatkan file eksekusi (gmxana1_lig2.sh).
 6. Pada Terminal Linux, jalankan perintah berikut: chmod a+x gmxana1_lig2.sh
 7. Eksekusi analisis dengan perintah: ./gmxana1_lig2.sh
-8. File output dalam bentuk rmsd ligand, rmsd protein, rmsf, sasa dna gyration dalam format .xvg tersimpan pada setiap direktori kompleks.
+8. File output dalam bentuk rmsd ligand, rmsd protein, rmsf, sasa dan gyration dalam format .xvg tersimpan pada setiap direktori kompleks.
    
